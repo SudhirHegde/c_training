@@ -32,7 +32,7 @@ int main(){
     printf("Enter shift amount:");
     scanf("%d",&k);
 
-        k_shifted(arr, k, n);
+    k_shifted(arr, k, n);
 
     print_array(arr,n);
 
